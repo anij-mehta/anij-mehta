@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anij Mehta
 
-🚀 Data Science Engineering @IIIT | 🤖 AI/ML Developer | 💡 Builder of Real-World Solutions
+🚀 Data Science Engineering @MIT Manipal | 🤖 AI/ML Developer | 💡 Builder of Real-World Solutions
 
 ---
 
