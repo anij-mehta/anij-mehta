@@ -20,13 +20,16 @@ I'm a passionate problem-solver who loves applying AI to meaningful use-cases �
 
 ## 🚀 Featured Projects
 
-### 🔍 [ASL Sign Language Recognition](https://github.com/anij-mehta/asl-sign-language)  
+### 🔍 [YOLO Notebooks Collection](https://github.com/anij-mehta/yolo-object-detection-notebooks)  
+A curated set of Jupyter notebooks showcasing object detection projects and custom model training using YOLOv8.
+
+### 🔍 [ASL Sign Language Recognition](https://github.com/anij-mehta/ASL-Recognition-System)  
 Detects and translates hand gestures in real-time using YOLOv8 and OpenCV. Trained on a custom dataset.
 
-### 💸 [Decentralized Transaction Verifier](https://github.com/anij-mehta/decentralized-transaction-verification)  
+### 💸 [Decentralized Transaction Verifier](https://github.com/anij-mehta/Decentralized-Transaction-Verification-System)  
 A blockchain-inspired system using Streamlit + MySQL for validating transactions securely with transparency.
 
-### 💬 [Java GUI Chat Application](https://github.com/anij-mehta/java-gui-chat)  
+### 💬 [Java GUI Chat Application](https://github.com/anij-mehta/GUI-chat-application)  
 Fully-functional multi-user chat with login, user status, and group messaging — built in pure Java.
 
 ### 🔥 [Stubble Burning Awareness Website](https://github.com/anij-mehta/stubble-burning-website)  
