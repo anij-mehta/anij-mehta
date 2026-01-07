@@ -42,7 +42,8 @@ ML-based tool for predicting stock trends on NSE/BSE using historical data, LSTM
 
 ## ⏳ Project Timeline
 - 🗓️ **2023**: Stubble Burning Awareness Website  
-- 🗓️ **2024**: ASL Sign Recognition, Java Chat App, Decentralized Transaction System  
+- 🗓️ **2024**: ASL Sign Recognition, Java Chat App, Decentralized Transaction System
+- 🗓️ **2025**: Sentinel AI Honeypot
 - 🗓️ **2026**: Stock Market Prediction (Ongoing)
 
 ---
