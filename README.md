@@ -32,8 +32,8 @@ A blockchain-inspired system using Streamlit + MySQL for validating transactions
 ### 💬 [Java GUI Chat Application](https://github.com/anij-mehta/GUI-chat-application)  
 Fully-functional multi-user chat with login, user status, and group messaging — built in pure Java.
 
-### 🔥 [Stubble Burning Awareness Website](https://github.com/anij-mehta/stubble-burning-website)  
-A climate awareness site to educate and inform about the causes and effects of stubble burning in India.
+### 🚀 [Sentinel AI Honeypot](https://github.com/anij-mehta/sentinel-ai-honeypot)  
+An AWS-deployed honeypot that uses Unsupervised Learning (Isolation Forest) to detect zero-day human intrusions in real-time.
 
 ### 📊 [Stock Price Predictor](https://github.com/anij-mehta/stock-price-predictor) *(Coming Soon)*  
 ML-based tool for predicting stock trends on NSE/BSE using historical data, LSTM, and volume analytics.
@@ -43,7 +43,7 @@ ML-based tool for predicting stock trends on NSE/BSE using historical data, LSTM
 ## ⏳ Project Timeline
 - 🗓️ **2023**: Stubble Burning Awareness Website  
 - 🗓️ **2024**: ASL Sign Recognition, Java Chat App, Decentralized Transaction System  
-- 🗓️ **2025**: Stock Market Prediction (Ongoing)
+- 🗓️ **2026**: Stock Market Prediction (Ongoing)
 
 ---
 
